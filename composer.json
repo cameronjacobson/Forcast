@@ -1,0 +1,8 @@
+{
+	"name":"forcast/forcast",
+	"autoload": {
+		"psr-0": {
+			"Forcast": "src/"
+		}
+	}
+}
